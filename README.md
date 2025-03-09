@@ -1,4 +1,4 @@
-# Project Title: Image Classification with Deep Learning
+# Image Classification with Deep Learning
 
 ## Description
 
